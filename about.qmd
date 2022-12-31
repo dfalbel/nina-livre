@@ -5,4 +5,4 @@ about:
   template: jolla
 ---
 
-About this blog
+Nesse blog aparecem desenhos feitos pela Nina! 😀
