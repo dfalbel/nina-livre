@@ -1,0 +1,19 @@
+---
+title: "Casa dos Sonhos"
+author: "Nina Brotto Falbel"
+date: "2022-12-30"
+categories: [desenho]
+image: "img.png"
+resources: 
+  - desc.wav
+---
+
+Essa é a casa dos sonhos da barbie.
+
+![](img.png)
+
+<audio controls>
+
+<source src="desc.wav" type="audio/wav">
+
+</audio>
