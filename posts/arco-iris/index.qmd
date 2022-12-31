@@ -1,0 +1,17 @@
+---
+title: "Arco Íris da Chuva e do Sol"
+author: "Nina Brotto Falbel"
+date: "2022-12-31"
+categories: [desenho]
+image: "img.png"
+resources: 
+  - desc.wav
+---
+
+Esse desenho é um arco-íris e os arco-íris só aparecem se ficar sol e chuva.
+
+![](img.png)
+
+<audio controls>
+  <source src="desc.wav" type="audio/wav">
+</audio>
