@@ -1,0 +1,19 @@
+---
+title: "Noite de Natal"
+author: "Nina Brotto Falbel"
+date: "2023-01-01"
+categories: [desenho]
+image: "img.png"
+resources: 
+  - desc.wav
+---
+
+Esse desenho mostra uma noite de natal.
+
+![](img.png)
+
+<audio controls>
+
+<source src="desc.wav" type="audio/wav">
+
+</audio>
