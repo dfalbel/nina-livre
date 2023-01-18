@@ -2,6 +2,9 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/cafe-da-manha/index.html",
+      "/posts/atriz/index.html",
+      "/posts/cheirinho/index.html",
       "/posts/noite-de-natal/index.html",
       "/posts/arco-iris/index.html",
       "/posts/casa-dos-sonhos/index.html"

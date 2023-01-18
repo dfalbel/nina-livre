@@ -1,0 +1,19 @@
+---
+title: "Atriz"
+author: "Nina Brotto Falbel"
+date: "2023-01-11"
+categories: [desenho]
+image: "img.png"
+resources: 
+  - desc.m4a
+---
+
+A atriz
+
+![](img.png)
+
+<audio controls>
+
+<source src="desc.m4a" type="audio/mp4">
+
+</audio>

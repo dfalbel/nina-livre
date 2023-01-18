@@ -1,0 +1,19 @@
+---
+title: "Cheirinho"
+author: "Nina Brotto Falbel"
+date: "2023-01-10"
+categories: [desenho]
+image: "img.png"
+resources: 
+  - desc.m4a
+---
+
+O cheirinho
+
+![](img.png)
+
+<audio controls>
+
+<source src="desc.m4a" type="audio/mp4">
+
+</audio>
