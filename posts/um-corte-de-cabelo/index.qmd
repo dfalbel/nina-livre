@@ -1,0 +1,19 @@
+---
+title: "Um Corte de Cabelo"
+author: "Nina Brotto Falbel"
+date: "2023-05-17"
+categories: [desenho]
+image: "img.png"
+resources: 
+  - desc.m4a
+---
+
+Um corte de cabelo
+
+![](img.png)
+
+<audio controls>
+
+<source src="desc.m4a" type="audio/mp4">
+
+</audio>
