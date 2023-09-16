@@ -1,0 +1,10 @@
+---
+title: "Malandragem"
+author: "Nina Brotto Falbel"
+date: "2023-09-16"
+categories: [video]
+image: "capa.png"
+---
+
+{{< video https://youtu.be/b_TBqCsJrtU >}}
+
