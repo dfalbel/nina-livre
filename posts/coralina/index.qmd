@@ -1,0 +1,19 @@
+---
+title: "Coralina"
+author: "Nina Brotto Falbel"
+date: "2024-04-09"
+categories: [desenho]
+image: "img.png"
+resources: 
+  - desc.wav
+---
+
+Coralina, uma menina inspirada no filme.
+
+![](img.png)
+
+<audio controls>
+
+<source src="desc.wav" type="audio/wav">
+
+</audio>
