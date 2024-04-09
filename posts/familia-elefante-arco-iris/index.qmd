@@ -1,0 +1,19 @@
+---
+title: "Família Elefante Arco-Íris"
+author: "Nina Brotto Falbel"
+date: "2023-05-24"
+categories: [desenho]
+image: "img.png"
+resources: 
+  - desc.wav
+---
+
+Uma família de elefantes arco-íris. Ela adora chuva arco-íris.
+
+![](img.png)
+
+<audio controls>
+
+<source src="desc.wav" type="audio/wav">
+
+</audio>

@@ -1,0 +1,19 @@
+---
+title: "Unicórnio Fofinho"
+author: "Nina Brotto Falbel"
+date: "2023-07-20"
+categories: [desenho]
+image: "img.png"
+resources: 
+  - desc.wav
+---
+
+Um unicórnio muito fofinho!
+
+![](img.png)
+
+<audio controls>
+
+<source src="desc.wav" type="audio/wav">
+
+</audio>
