@@ -1,0 +1,12 @@
+---
+title: "Carta de formatura da Itália"
+author: "Nina Brotto Falbel"
+date: "2023-05-20"
+categories: [carta]
+image: "img.png"
+---
+
+Carta recebida pela Nina na formatura da Piccolo Principe, sua escola na Itália.
+
+![](img.png)
+
