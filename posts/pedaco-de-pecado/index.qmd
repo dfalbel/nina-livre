@@ -1,0 +1,10 @@
+---
+title: "Meu pedaço de pecado"
+author: "Nina Brotto Falbel"
+date: "2024-07-16"
+categories: [video]
+image: "capa.png"
+---
+
+{{< video https://youtu.be/c6rQeRivXmY >}}
+
