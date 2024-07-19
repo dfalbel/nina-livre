@@ -1,0 +1,19 @@
+---
+title: "Gato cinza no sol"
+author: "Nina Brotto Falbel"
+date: "2024-06-11"
+categories: [desenho]
+image: "img.jpeg"
+resources: 
+  - desc.m4a
+---
+
+Um gato cinza no sol!
+
+![](img.jpeg)
+
+<audio controls>
+
+<source src="desc.m4a" type="audio/wav">
+
+</audio>

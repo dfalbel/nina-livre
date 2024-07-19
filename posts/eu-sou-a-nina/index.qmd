@@ -1,0 +1,19 @@
+---
+title: "Eu sou a Nina"
+author: "Nina Brotto Falbel"
+date: "2023-11-27"
+categories: [desenho]
+image: "img.png"
+resources: 
+  - desc.m4a
+---
+
+Um autoretrato de Nina
+
+![](img.png)
+
+<audio controls>
+
+<source src="desc.m4a" type="audio/wav">
+
+</audio>
