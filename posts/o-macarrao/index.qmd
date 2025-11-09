@@ -8,8 +8,6 @@ resources:
   - desc.m4a
 ---
 
-Um unicórnio muito fofinho!
-
 ![](img.jpeg)
 
 <audio controls>
