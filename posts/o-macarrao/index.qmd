@@ -1,0 +1,19 @@
+---
+title: "A Visão do Macarrão"
+author: "Nina Brotto Falbel"
+date: "2025-11-09"
+categories: [obra]
+image: "img.jpeg"
+resources: 
+  - desc.m4a
+---
+
+Um unicórnio muito fofinho!
+
+![](img.jpeg)
+
+<audio controls>
+
+<source src="desc.m4a" type="audio/mp4">
+
+</audio>
