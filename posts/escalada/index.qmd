@@ -1,0 +1,19 @@
+---
+title: "A flor que eu fiz"
+author: "Nina Brotto Falbel"
+date: "2024-07-19"
+categories: [desenho]
+image: "img.jpg"
+resources: 
+  - desc.m4a
+---
+
+Uma flor arco iris
+
+![](img.jpg)
+
+<audio controls>
+
+<source src="desc.m4a" type="audio/wav">
+
+</audio>
